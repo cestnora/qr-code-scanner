@@ -1,4 +1,3 @@
-# qr-code-scanner
 _**QR Code Scanner with Audio-Visual Support for the Visually Impaired**_
 
 **Hardware Setup**
