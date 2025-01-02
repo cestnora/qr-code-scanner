@@ -17,7 +17,7 @@ _**QR Code Scanner with Audio-Visual Support for the Visually Impaired**_
 (4) gTTS 2.5.4 (Google Text-to-Speech)<br />
 (5) Real-time Audio Player: pygame.mixer.music<br />
 
-**Functionalities**<br />
+**Functionalities Achieved**<br />
 (1) Real-time QR Code Recognition: The system detects and decodes QR codes in real-time using a camera and displays the detected content visually and audibly.<br />
 (3) Visual Display of Texts: The decoded text is displayed on the LED matrix of the SenseHAT, providing a clear and immediate visual reference for users.<br />
 (4) Text-to-Speech Conversion: The system can convert the decoded text from QR codes into audio feedback using the Google Text-to-Speech (gTTS) library.<br />
