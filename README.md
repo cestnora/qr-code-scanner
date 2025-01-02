@@ -2,7 +2,7 @@ _**QR Code Scanner with Audio-Visual Support for the Visually Impaired**_
 
 **Hardware Setup**<br />
 (1) Raspberry Pi<br />
-(2) Input Devices<br />
+(2) Input Devices
 - Raspberry Pi Camera: Captures real-time video input for QR code detection.
 - Keyboard and Mouse: Assist in user interaction and debugging, connected via USB.
 (3) Output Devices<br />
